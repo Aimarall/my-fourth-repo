@@ -42,4 +42,6 @@ main {
 }
 .example-4 {
     font-family: 'Antic Slab', serif;
+    color: gray;
+    line-height: 1.5;
 }
